@@ -13,4 +13,4 @@ I'm a graduate from [School of AIA](https://aia.hust.edu.cn/), [Huazhong Univers
 
 You can find my CV here: [Posora's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:posora@hust.edu.cn) / [Github](https://github.com/posora) / [Wechat](../images/wechat.jpg)
+[Email](mailto:posora@hust.edu.cn) / [Github](https://github.com/posora) / [Wechat](../assets/wechat.png)
