@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "404 NOT FOUND"
   location         : "China Wuhan"
-  employer         : # "HUST"
+  employer         : "HUST"
   uri              : # URL
   email            : "posora@hust.edu.cn" 
 
@@ -62,10 +62,10 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : posora # Username
+  steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : posoraz # Username
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
