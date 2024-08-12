@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "404 NOT FOUND"
   location         : "China Wuhan"
-  employer         : "Huazhong University of Science and Technology"
+  employer         : # "HUST"
   uri              : # URL
   email            : "posora@hust.edu.cn" 
 
