@@ -62,15 +62,15 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : posora # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : posoraz
+  twitter          : posoraz # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : posoraz
+  youtube          : # Username
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
